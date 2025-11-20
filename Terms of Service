@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Terms of Service — Genius AI</title>
+  <meta name="description" content="Terms of Service for Genius AI — a children-first AI education platform." />
+  <style>
+    :root{
+      --bg:#ffffff;
+      --card:#f8fbff;
+      --accent:#1e90ff;
+      --text:#0b1220;
+      --muted:#556074;
+      --maxw:900px;
+      --radius:12px;
+      font-family: Inter, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    html,body{height:100%;margin:0;background:var(--bg);color:var(--text);}
+    .wrap{max-width:var(--maxw);margin:32px auto;padding:28px;border-radius:var(--radius);box-shadow:0 8px 30px rgba(16,24,40,0.06);background:linear-gradient(180deg,white 0%,var(--card) 100%);}
+    header{display:flex;align-items:center;gap:16px;margin-bottom:10px;}
+    header h1{margin:0;font-size:20px;color:var(--accent);}
+    .meta{color:var(--muted);font-size:13px;margin-top:2px;}
+    hr{border:0;border-top:1px solid #e6eefc;margin:20px 0}
+    h2{color:var(--text);font-size:16px;margin:20px 0 8px}
+    p{line-height:1.6;margin:8px 0;color:var(--muted)}
+    ul{margin:8px 0 16px 20px;color:var(--muted)}
+    .small{font-size:13px;color:var(--muted)}
+    nav.toc{background:#fbfeff;border-radius:8px;padding:12px;margin:10px 0 20px}
+    nav.toc a{display:block;color:var(--accent);text-decoration:none;padding:6px 0;font-weight:600}
+    footer{margin-top:28px;padding-top:12px;border-top:1px solid #eef6ff;font-size:13px;color:var(--muted)}
+    .kbd{display:inline-block;background:#eef8ff;border-radius:6px;padding:2px 8px;font-weight:700;color:var(--accent);font-size:12px}
+    @media (max-width:620px){
+      .wrap{margin:16px;padding:18px}
+      header h1{font-size:18px}
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap" role="main">
+    <header>
+      <div>
+        <h1>Terms of Service — Genius AI</h1>
+        <div class="meta">Last Updated: <strong>[Insert Date]</strong></div>
+      </div>
+    </header>
+
+    <p class="small">Welcome to <strong>Genius AI</strong> (“Company”, “we”, “our”, or “us”). These Terms of Service (“Terms”) govern your access and use of the Genius AI mobile app, website, content, educational materials, and related services (collectively, the “Services”). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree, please stop using the Services.</p>
+
+    <nav class="toc" aria-label="Table of contents">
+      <strong>Contents</strong>
+      <a href="#eligibility">1. Eligibility</a>
+      <a href="#purpose">2. Purpose of the Service</a>
+      <a href="#accounts">3. User Accounts</a>
+      <a href="#use">4. Acceptable Use</a>
+      <a href="#ai-content">5. AI-Generated Content</a>
+      <a href="#children">6. Educational Content for Children</a>
+      <a href="#purchases">7. Purchases & Subscriptions</a>
+      <a href="#ip">8. Intellectual Property</a>
+      <a href="#privacy">9. Privacy & Data Collection</a>
+      <a href="#disclaimers">10. Disclaimers</a>
+      <a href="#liability">11. Limitation of Liability</a>
+      <a href="#termination">12. Termination</a>
+      <a href="#changes">13. Changes to These Terms</a>
+      <a href="#contact">14. Contact Information</a>
+    </nav>
+
+    <hr />
+
+    <section id="eligibility">
+      <h2>1. Eligibility</h2>
+      <p>You must be at least <strong>13 years old</strong> to use Genius AI. Children under 13 may only use the Services under <strong>parental or guardian supervision</strong>, especially within our Kids Education sections. If you are under the age of majority in your country, you must have permission from a parent or legal guardian.</p>
+    </section>
+
+    <section id="purpose">
+      <h2>2. Purpose of the Service</h2>
+      <p>Genius AI provides educational and entertainment content related to artificial intelligence, including but not limited to:</p>
+      <ul>
+        <li>AI lessons</li>
+        <li>Children’s educational content</li>
+        <li>Stories and books</li>
+        <li>Songs and music</li>
+        <li>Games and activities</li>
+        <li>Teen and adult learning modules</li>
+        <li>AI-powered content and tools</li>
+      </ul>
+      <p>Content may evolve over time as we improve the learning experience.</p>
+    </section>
+
+    <section id="accounts">
+      <h2>3. User Accounts</h2>
+      <p>To access certain features, you may be required to create an account. You agree to:</p>
+      <ul>
+        <li>Provide accurate and complete information</li>
+        <li>Keep your login details secure</li>
+        <li>Notify us immediately of unauthorized use</li>
+      </ul>
+      <p>We collect basic user data such as <strong>name, age, and country</strong> to provide personalized learning pathways.</p>
+    </section>
+
+    <section id="use">
+      <h2>4. Acceptable Use</h2>
+      <p>You agree <strong>NOT</strong> to:</p>
+      <ul>
+        <li>Use the Services for illegal or harmful purposes</li>
+        <li>Upload inappropriate, harmful, or unsafe content</li>
+        <li>Attempt to hack, disrupt, or reverse-engineer the app</li>
+        <li>Copy, distribute, or resell any Genius AI content</li>
+        <li>Mislead others or impersonate other users</li>
+      </ul>
+      <p>We reserve the right to suspend or terminate accounts that violate these rules.</p>
+    </section>
+
+    <section id="ai-content">
+      <h2>5. AI-Generated Content</h2>
+      <p>Genius AI may provide content generated by artificial intelligence. By using our AI features, you acknowledge that:</p>
+      <ul>
+        <li>AI content may contain errors</li>
+        <li>You should use judgment when applying any AI suggestions</li>
+        <li>We are not responsible for outcomes from your use of AI-generated material</li>
+      </ul>
+      <p>AI content is for <strong>educational and entertainment purposes only</strong>.</p>
+    </section>
+
+    <section id="children">
+      <h2>6. Educational Content for Children</h2>
+      <p>Genius AI includes materials designed for children, such as:</p>
+      <ul>
+        <li>Stories</li>
+        <li>Songs</li>
+        <li>Games</li>
+        <li>Learning challenges</li>
+        <li>Animated lessons</li>
+      </ul>
+      <p>We strive to maintain a safe and age-appropriate environment, but parents/guardians are responsible for monitoring their children’s usage.</p>
+    </section>
+
+    <section id="purchases">
+      <h2>7. Purchases &amp; Subscriptions (If applicable)</h2>
+      <p>If premium features or subscriptions are offered:</p>
+      <ul>
+        <li>Purchases are processed through App Store, Google Play, or authorized providers.</li>
+        <li>Refunds must follow the policies of those platforms.</li>
+        <li>Subscription terms will be clearly stated during purchase.</li>
+      </ul>
+    </section>
+
+    <section id="ip">
+      <h2>8. Intellectual Property</h2>
+      <p>All content in Genius AI — including lessons, songs, stories, designs, characters (including mascots), graphics, branding, and software — is protected by copyright and intellectual property laws. You may <strong>not</strong> copy, distribute, modify, or create derivative works without our written permission.</p>
+    </section>
+
+    <section id="privacy">
+      <h2>9. Privacy &amp; Data Collection</h2>
+      <p>We collect limited personal data, including:</p>
+      <ul>
+        <li>Name</li>
+        <li>Age</li>
+        <li>Country</li>
+      </ul>
+      <p>This helps us provide age-appropriate educational experiences. Your data is handled according to our <strong>Privacy Policy</strong>, which will be made available on our website or app. We do not sell personal data.</p>
+    </section>
+
+    <section id="disclaimers">
+      <h2>10. Disclaimers</h2>
+      <p>The Services are provided <strong>“AS IS” and “AS AVAILABLE.”</strong> We do not guarantee:</p>
+      <ul>
+        <li>The app will always function without interruptions</li>
+        <li>AI-generated content will always be accurate</li>
+        <li>All content is suitable for every user</li>
+      </ul>
+      <p>Your use of the Services is at your own risk.</p>
+    </section>
+
+    <section id="liability">
+      <h2>11. Limitation of Liability</h2>
+      <p>To the maximum extent permitted by law, Genius AI is <strong>not liable</strong> for:</p>
+      <ul>
+        <li>Indirect, incidental, or punitive damages</li>
+        <li>Losses resulting from use or inability to use the Services</li>
+        <li>Reliance on educational content or AI-generated content</li>
+        <li>Unauthorized access to user data despite reasonable safeguards</li>
+      </ul>
+    </section>
+
+    <section id="termination">
+      <h2>12. Termination</h2>
+      <p>We may suspend or terminate your access if you:</p>
+      <ul>
+        <li>Violate these Terms</li>
+        <li>Misuse the Services</li>
+        <li>Attempt to harm the platform or community</li>
+      </ul>
+      <p>You may stop using the Services at any time.</p>
+    </section>
+
+    <section id="changes">
+      <h2>13. Changes to These Terms</h2>
+      <p>We may update these Terms periodically. Changes go into effect once posted in the app or on our website. Continued use of the Services means you accept the updated Terms.</p>
+    </section>
+
+    <section id="contact">
+      <h2>14. Contact Information</h2>
+      <p>If you have questions about these Terms, contact us at:</p>
+      <p>
+        <strong>Genius AI</strong><br />
+        Canada<br />
+        Email: <a href="mailto:hello@geniusai.example">hello@geniusai.example</a>
+      </p>
+    </section>
+
+    <footer>
+      <p class="small">© <span id="year"></span> Genius AI. All rights reserved. This Terms of Service is a general template and does not constitute legal advice. Consider consulting a lawyer for jurisdiction-specific legal language.</p>
+    </footer>
+  </main>
+
+  <script>
+    // Auto-fill year
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
